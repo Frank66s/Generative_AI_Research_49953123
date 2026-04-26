@@ -1,12 +1,12 @@
-\# Generative AI Research Project
+\ Generative AI Research Project
 
 
 
-This repository stores the research materials for the project "Using Generative AI Tools - Boon or Bane".
+This repository stores the research materials for the project "Using Generative AI Tools".
 
 
 
-\## Folder Structure
+\Folder Structure
 
 
 
