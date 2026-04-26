@@ -10,15 +10,15 @@ This repository stores the research materials for the project "Using Generative 
 
 
 
-\- 01\_Literature\_Review: stores journal articles, conference papers, books, and news articles.
+\- Literature\_Review: stores journal articles, conference papers, books, and news articles.
 
-\- 02\_Quantitative\_Analysis: stores survey data, survey questions, Python scripts, CSV files, Excel files, and analysis reports.
+\- Quantitative\_Analysis: stores survey data, survey questions, Python scripts, CSV files, Excel files, and analysis reports.
 
-\- 03\_Qualitative\_Analysis: stores interview transcripts, interview protocols, consent forms, insights reports, and data visualisations.
+\- Qualitative\_Analysis: stores interview transcripts, interview protocols, consent forms, insights reports, and data visualisations.
 
-\- 04\_Drafts\_and\_Reports: stores draft research proposals, conference papers, and final reports.
+\- Drafts\_and\_Reports: stores draft research proposals, conference papers, and final reports.
 
-\- 05\_Additional\_Materials: stores information sheets, photos, and other media files.
+\- Additional\_Materials: stores information sheets, photos, and other media files.
 
 
 
