@@ -22,17 +22,5 @@ This repository stores the research materials for the project "Using Generative 
 
 
 
-\## Contribution Guidelines
 
-
-
-Team members should use clear file names and place files in the correct folders. They should also write meaningful commit messages when making changes. Sensitive data, such as consent forms and interview transcripts, should only be accessed by authorised team members.
-
-
-
-\## Naming Convention
-
-
-
-File names should be short, clear, and consistent. For example, dates can be written as YYYY-MM-DD, and spaces should be replaced with underscores.
 
