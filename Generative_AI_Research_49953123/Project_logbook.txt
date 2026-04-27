@@ -1,5 +1,0 @@
-This project studies the use of generative AI tools in research and learning.
-The research team will collect quantitative survey data.
-The research team will collect qualitative interview data.
-GitHub will be used to organise files and track changes.
-This line will be used to test merge conflicts later.
