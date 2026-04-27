@@ -27,18 +27,18 @@ Generative_AI_Research_49953123
 │   └── StudyData_Table2.xlsx
 │
 ├── Qualitative_Analysis
-│   ├── interview Eric.docx
-│   ├── interview Jason.docx
-│   └── interview Joe.docx
+│   ├── 27042026interview Eric.docx
+│   ├── 27042026interview Jason.docx
+│   └── 27042026interview Joe.docx
 │
 ├── Drafts_and_Reports
 │   ├── draft
 │   ├── data.txt
-│   ├── final REAL FINAL - READY TO SUBMIT.pdf
-│   └── SUBMIT THIS.pdf
+│   ├── final_version final.pdf
+│   └── final_version.pdf
 │
 ├── Additional_Materials
-│   ├── Fruit-picking Robot Project task table schedule.png
+│   ├── Fruit_picking Robot Project task table schedule.png
 │   └── Git workflow flowchart.png
 │
 └── README.md
